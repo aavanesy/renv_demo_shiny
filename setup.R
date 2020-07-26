@@ -14,7 +14,6 @@ options(renv.download.override = utils::download.file)
 
 #install.packages('ggplot2')
 #install.packages('Rcurl')
-installed.packages()
 
 
 #Sys.unsetenv("R_PROFILE_USER")
